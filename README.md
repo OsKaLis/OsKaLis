@@ -2,6 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я backend разработчик пешу на Python и не только !!!</h3>
 
+## [КОНТАКТЫ]
+<h3 align="center"><img src="https://img.shields.io/badge/Telegram:_-@OskaLis-Green"><img src="https://img.shields.io/badge/Mail:_-oskaLis@yandex.ru-Green"></h3>
+
 ## [СТЕК ТЕХНОЛОГИЙ]
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -37,13 +40,28 @@
 
 ## [АКТИВНОСТЬ]
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OsKaLis&theme=dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OsKaLis&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OsKaLis&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OsKaLis&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OsKaLis&theme=dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OsKaLis&theme=dark&locale=ru)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=OsKaLis)](https://github.com/ryo-ma/github-profile-trophy)
+
+## [ОБО МНЕ]
+> [!NOTE]
+> Я наслаждаюсь процессом создания и поддержания backend части приложения,
+> так как это требует глубокого понимания технологий, архитектуры и принципов
+> разработки программного обеспечения. Возможность работать с самыми
+> современными технологиями и решать сложные задачи делает эту профессию
+> захватывающей и увлекательной для меня.
+> Python выбрал и за широких возможностях и глубокой функциональностью,
+> что обеспечивает высокую производительность и эффективность разработки.
+> Его лаконичный синтаксис и простота использования делают его идеальным
+> инструментом для написания чистого и понятного кода, что упрощает
+> сопровождение и дальнейшее развитие проектов.
+> Хочется создавать эффективные и функциональные решения, которые могут
+> принести реальную пользу людям сделать этот мир чуточку лучше.
+> Малая доля контента, где я черпаю знания.
 
 ## [КНИГИ]
 - Изучаем Python: программирование игр, визуализация данных, веб-приложения. 3-е изд. | Мэтиз Эрик
@@ -69,6 +87,4 @@
 - Не много готовлю, коронное блюда [шарлотка, борщ]
 - Люблю слушать музыку
 - Люблю животных!
- ## [КОНТАКТЫ]
-- Telegram: @OskaLis — предпочитаемый способ связи
-- Mail: oskaLis@yandex.ru
+
