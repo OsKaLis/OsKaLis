@@ -75,9 +75,10 @@
 [![codewars](https://www.codewars.com/users/oskaLis/badges/large)](https://www.codewars.com/users/oskaLis)
 ## [МОИ ПЕТ ПРОЕКТЫ]
 - GEryCH: https://github.com/OsKaLis/GEryCH.git
-  <img src="https://img.shields.io/badge/Язык программирования:_-Python-Green"> <img src="https://img.shields.io/badge/библиотека:_-Tkinter-blue"> <img src="https://img.shields.io/badge/библиотека:_-Pyperclip-red">
+  <img src="https://img.shields.io/badge/Python_-3.9.10-Green"> <img src="https://img.shields.io/badge/Tkinter_-8.6-blue"> <img src="https://img.shields.io/badge/Pyperclip_-1.8.2-red">
 - oculus: https://github.com/OsKaLis/oculus.git
-  <img src="https://img.shields.io/badge/Язык программирования:_-Python-Green"> <img src="https://img.shields.io/badge/библиотека:_-pyrogram-blue"> <img src="https://img.shields.io/badge/библиотека:_-OpenCV-red">
+  <img src="https://img.shields.io/badge/Python_-3.9.10-Green"> <img src="https://img.shields.io/badge/pyrogram_-2.0.106-blue"> <img src="https://img.shields.io/badge/OpenCV_-4.8.1.78-red">
+  <img src="https://img.shields.io/badge/python_dotenv_-1.0.1-aqua"> <img src="https://img.shields.io/badge/PySocks_-1.7.1-white">
 - Alien_Invasion: https://github.com/OsKaLis/Alien_Invasion.git
   <img src="https://img.shields.io/badge/Язык программирования:_-Python-Green"> <img src="https://img.shields.io/badge/библиотека:_-pygame-blue">
 ## [Чем я увлекаюсь]
