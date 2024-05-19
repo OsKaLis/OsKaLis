@@ -49,11 +49,14 @@
 ## [YOUTUBE]
 [selfedu, KirillSemaev, payalnik_TV, т.д.]
 ## [CODEWARS]
-- https://www.codewars.com/users/oskaLis/badges/large
+[![codewars](https://www.codewars.com/users/oskaLis/badges/large)](https://www.codewars.com/users/oskaLis)
 ## [МОИ ПЕТ ПРОЕКТЫ]
 - GEryCH: https://github.com/OsKaLis/GEryCH.git
+  <img src="https://img.shields.io/badge/Язык программирования:_-Python-Green"> <img src="https://img.shields.io/badge/библиотека:_-Tkinter-blue"> <img src="https://img.shields.io/badge/библиотека:_-Pyperclip-red">
 - oculus: https://github.com/OsKaLis/oculus.git
+  <img src="https://img.shields.io/badge/Язык программирования:_-Python-Green"> <img src="https://img.shields.io/badge/библиотека:_-pyrogram-blue"> <img src="https://img.shields.io/badge/библиотека:_-OpenCV-red">
 - Alien_Invasion: https://github.com/OsKaLis/Alien_Invasion.git
+  <img src="https://img.shields.io/badge/Язык программирования:_-Python-Green"> <img src="https://img.shields.io/badge/библиотека:_-pygame-blue">
 ## [Чем я увлекаюсь]
 - Люблю смотреть Аниме
 - Фильмы с закрученным сюжетом
