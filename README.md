@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/Python_-3.9.10-Green"> <img src="https://img.shields.io/badge/pyrogram_-2.0.106-blue"> <img src="https://img.shields.io/badge/OpenCV_-4.8.1.78-red">
   <img src="https://img.shields.io/badge/python_dotenv_-1.0.1-aqua"> <img src="https://img.shields.io/badge/PySocks_-1.7.1-white">
 - Alien_Invasion: https://github.com/OsKaLis/Alien_Invasion.git
-  <img src="https://img.shields.io/badge/Язык программирования:_-Python-Green"> <img src="https://img.shields.io/badge/библиотека:_-pygame-blue">
+  <img src="https://img.shields.io/badge/Python_-3.9.10-Green"> <img src="https://img.shields.io/badge/pygame_-2.5.2-blue">
 ## [Чем я увлекаюсь]
 - Люблю смотреть Аниме
 - Фильмы с закрученным сюжетом
