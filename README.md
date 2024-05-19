@@ -36,9 +36,14 @@
 ![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logoColor=white)
 
 ## [АКТИВНОСТЬ]
-[![trophy](https://github-profile-trophy.vercel.app/?username=OsKaLis)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OsKaLis&theme=dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OsKaLis&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OsKaLis&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OsKaLis&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OsKaLis&theme=dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OsKaLis&theme=dark&locale=ru)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsKaLis&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=OsKaLis)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## [КНИГИ]
 - Изучаем Python: программирование игр, визуализация данных, веб-приложения. 3-е изд. | Мэтиз Эрик
