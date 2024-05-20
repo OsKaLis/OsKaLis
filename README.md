@@ -74,13 +74,19 @@
 ## [CODEWARS]
 [![codewars](https://www.codewars.com/users/oskaLis/badges/large)](https://www.codewars.com/users/oskaLis)
 ## [МОИ ПЕТ ПРОЕКТЫ]
-- GEryCH: https://github.com/OsKaLis/GEryCH.git
-  <img src="https://img.shields.io/badge/Python_-3.9.10-Green"> <img src="https://img.shields.io/badge/Tkinter_-8.6-blue"> <img src="https://img.shields.io/badge/Pyperclip_-1.8.2-red">
-- oculus: https://github.com/OsKaLis/oculus.git
-  <img src="https://img.shields.io/badge/Python_-3.9.10-Green"> <img src="https://img.shields.io/badge/pyrogram_-2.0.106-blue"> <img src="https://img.shields.io/badge/OpenCV_-4.8.1.78-red">
-  <img src="https://img.shields.io/badge/python_dotenv_-1.0.1-aqua"> <img src="https://img.shields.io/badge/PySocks_-1.7.1-white">
-- Alien_Invasion: https://github.com/OsKaLis/Alien_Invasion.git
-  <img src="https://img.shields.io/badge/Python_-3.9.10-Green"> <img src="https://img.shields.io/badge/pygame_-2.5.2-blue">
+* GEryCH:
+  * Краткое описание:  Сгенератор пароль.  
+  * Github:  https://github.com/OsKaLis/GEryCH.git
+  * Стек:  <img src="https://img.shields.io/badge/Python_-3.9.10-Green"> <img src="https://img.shields.io/badge/Tkinter_-8.6-blue"> <img src="https://img.shields.io/badge/Pyperclip_-1.8.2-red">
+* oculus:
+  * Краткое описание:  информирует хозяина кто включил пк.
+  * Github:  https://github.com/OsKaLis/oculus.git
+  * <img src="https://img.shields.io/badge/Python_-3.9.10-Green"> <img src="https://img.shields.io/badge/pyrogram_-2.0.106-blue"> <img src="https://img.shields.io/badge/OpenCV_-4.8.1.78-red">
+  * <img src="https://img.shields.io/badge/python_dotenv_-1.0.1-aqua"> <img src="https://img.shields.io/badge/PySocks_-1.7.1-white">
+* Alien_Invasion:
+  * Краткое описание: Игра стрелялка.
+  * Github:  https://github.com/OsKaLis/Alien_Invasion.git
+  * <img src="https://img.shields.io/badge/Python_-3.9.10-Green"> <img src="https://img.shields.io/badge/pygame_-2.5.2-blue">
 ## [Чем я увлекаюсь]
 - Люблю смотреть Аниме
 - Фильмы с закрученным сюжетом
