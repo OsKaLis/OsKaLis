@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">OsKaLis</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я backend разработчик пешу на Python и не только !!!</h3>
+<h3 align="center">Я backend разработчик пишу на Python и не только !!!</h3>
 
 ## [КОНТАКТЫ]
 <h3 align="center"><img src="https://img.shields.io/badge/Telegram:_-@OskaLis-Green"><img src="https://img.shields.io/badge/Mail:_-oskaLis@yandex.ru-Green"></h3>
