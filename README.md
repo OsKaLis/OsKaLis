@@ -37,6 +37,7 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic-%23000000.svg?style=for-the-badge&logoColor=white)
 ![Базы данных](https://img.shields.io/badge/Базы_данных-%23000000.svg?style=for-the-badge&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
 
 ## [АКТИВНОСТЬ]
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OsKaLis&theme=dark)
