@@ -73,7 +73,9 @@
 * GEryCH:
   * Краткое описание:  Генератор пароль.  
   * Github:  https://github.com/OsKaLis/GEryCH.git
-  * Стек:  <img src="https://img.shields.io/badge/Python_-3.12-Green"> <img src="https://img.shields.io/badge/Tkinter_-8.6-blue"> <img src="https://img.shields.io/badge/Pyperclip_-1.8.2-red">
+  * Стек:  ![Python 3.12](https://img.shields.io/badge/Python-3.12-brightgreen.svg?style=flat&logo=python&logoColor=white)
+![Python 3.12](https://img.shields.io/badge/QT-6.7.1-brightgreen.svg?style=flat&logo=qt&logoColor=white)
+
 * oculus:
   * Краткое описание:  Информирует хозяина кто включил ПК.
   * Github:  https://github.com/OsKaLis/oculus.git
