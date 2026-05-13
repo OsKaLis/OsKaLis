@@ -71,6 +71,17 @@
                 <img src="https://img.shields.io/badge/catboost:-1.2.8-greem">
                 <img src="https://img.shields.io/badge/lightgbm:-4.6.0-greem">
                 <img src="https://img.shields.io/badge/Poetry:_-2.2.0-blue">
+
+  ### predictions_of_heart_attack_risk
+  Представляем инновационное веб-приложение на базе современного фреймворка FastAPI, разработанное для автоматизации процесса анализа данных.
+  - **Github:**  https://github.com/OsKaLis/predictions_of_heart_attack_risk
+  - **Стек:** <img src="https://img.shields.io/badge/Scikit--Learn:_-1.6.1-purple">
+              <img src="https://img.shields.io/badge/Pandas:_-2.2.3-slategrey">
+              <img src="https://img.shields.io/badge/Python:_-3.13.0-greem">
+              <img src="https://img.shields.io/badge/FastAPI:_-0.119.0-green">
+              <img src="https://img.shields.io/badge/Uvicorn:_-0.37.0-red">
+              <img src="https://img.shields.io/badge/Poetry:_-2.0.0-blue">
+
   
 </details>  
 
