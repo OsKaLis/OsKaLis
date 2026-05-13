@@ -1,9 +1,9 @@
-<h1 align="center">Привет, я <a href="https://daniilshat.ru/" target="_blank">OsKaLis</a> (Юрий Юшко)</h1>
-<p align="center">Python‑разработчик: backend + Data Science</p>
+<h1 align="center">Привет, я <a href="https://github.com/OsKaLis" target="_blank">OsKaLis</a> (Юрий Юшко)</h1>
+<h2 align="center">Python‑разработчик: backend + Data Science</h2>
 <h3 align="center">Python‑разработчик (Backend + Data Science). Создаю надёжные API и обогащаю сервисы интеллектуальными функциями: от анализа данных до прогнозных моделей!!!</h3>
 
 <details>
-  <summary><h1>Немного обо мне</h1></summary>
+  <summary><h1>НЕМНОГО ОБО МНЕ</h1></summary>
 
   ## [ CODEWARS ]
   <p align="center">
@@ -47,39 +47,69 @@
   </ul>
 </details>
 
-## [ СТЕК ТЕХНОЛОГИЙ ]
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![СУБД](https://img.shields.io/badge/СУБД-0078D6?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Асинхронное программирование](https://img.shields.io/badge/Асинхронное_программирование-0078D6?style=for-the-badge)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-0078D6?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0078D9?style=for-the-badge)
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logoColor=white)
-![aiogram](https://img.shields.io/badge/aiogram-%23000000.svg?style=for-the-badge&logoColor=white)
-![Aiogoogle](https://img.shields.io/badge/Aiogoogle-%23000000.svg?style=for-the-badge&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-%23000000.svg?style=for-the-badge&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23000000.svg?style=for-the-badge&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-%23000000.svg?style=for-the-badge&logoColor=white)
-![Базы данных](https://img.shields.io/badge/Базы_данных-%23000000.svg?style=for-the-badge&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logoColor=white)
-![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
+<details>
+  <summary><h1>DATA-SCIENCE</h1></summary>
+
+  ## [ СТЕК ТЕХНОЛОГИЙ ]
+
+  ## [ МОИ ПЕТ ПРОЕКТЫ ]
+  
+</details>  
+
+<details>
+  <summary><h1>BACKEND</h1></summary>
+  
+  ## [ СТЕК ТЕХНОЛОГИЙ ]
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+  ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![СУБД](https://img.shields.io/badge/СУБД-0078D6?style=for-the-badge)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Асинхронное программирование](https://img.shields.io/badge/Асинхронное_программирование-0078D6?style=for-the-badge)
+  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  ![Unit Testing](https://img.shields.io/badge/Unit_Testing-0078D6?style=for-the-badge)
+  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+  ![Pytest](https://img.shields.io/badge/Pytest-0078D9?style=for-the-badge)
+  ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logoColor=white)
+  ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logoColor=white)
+  ![aiogram](https://img.shields.io/badge/aiogram-%23000000.svg?style=for-the-badge&logoColor=white)
+  ![Aiogoogle](https://img.shields.io/badge/Aiogoogle-%23000000.svg?style=for-the-badge&logoColor=white)
+  ![Scrapy](https://img.shields.io/badge/Scrapy-%23000000.svg?style=for-the-badge&logoColor=white)
+  ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23000000.svg?style=for-the-badge&logoColor=white)
+  ![Pydantic](https://img.shields.io/badge/Pydantic-%23000000.svg?style=for-the-badge&logoColor=white)
+  ![Базы данных](https://img.shields.io/badge/Базы_данных-%23000000.svg?style=for-the-badge&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logoColor=white)
+  ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
+
+  ## [ МОИ ПЕТ ПРОЕКТЫ ]
+  * GEryCH:
+    * Краткое описание:  Генератор пароль.  
+    * Github:  https://github.com/OsKaLis/GEryCH.git
+    * Стек:  ![Python 3.12](https://img.shields.io/badge/Python-3.12-brightgreen.svg?style=flat&logo=python&logoColor=white)
+  ![Python 3.12](https://img.shields.io/badge/QT-6.7.1-brightgreen.svg?style=flat&logo=qt&logoColor=white)
+
+  * oculus:
+    * Краткое описание:  Информирует хозяина кто включил ПК.
+    * Github:  https://github.com/OsKaLis/oculus.git
+    * <img src="https://img.shields.io/badge/Python_-3.9.10-Green"> <img src="https://img.shields.io/badge/pyrogram_-2.0.106-blue"> <img src="https://img.shields.io/badge/OpenCV_-4.8.1.78-red">
+    * <img src="https://img.shields.io/badge/python_dotenv_-1.0.1-aqua"> <img src="https://img.shields.io/badge/PySocks_-1.7.1-white">
+  * Alien_Invasion:
+    * Краткое описание: Игра стрелялка.
+    * Github:  https://github.com/OsKaLis/Alien_Invasion.git
+    * <img src="https://img.shields.io/badge/Python_-3.9.10-Green"> <img src="https://img.shields.io/badge/pygame_-2.5.2-blue">
+</details>
 
 ## [ АКТИВНОСТЬ ]
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OsKaLis&theme=dark)
@@ -89,20 +119,3 @@
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OsKaLis&theme=dark) -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OsKaLis&theme=dark&locale=ru)](https://git.io/streak-stats) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=OsKaLis)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-## [ МОИ ПЕТ ПРОЕКТЫ ]
-* GEryCH:
-  * Краткое описание:  Генератор пароль.  
-  * Github:  https://github.com/OsKaLis/GEryCH.git
-  * Стек:  ![Python 3.12](https://img.shields.io/badge/Python-3.12-brightgreen.svg?style=flat&logo=python&logoColor=white)
-![Python 3.12](https://img.shields.io/badge/QT-6.7.1-brightgreen.svg?style=flat&logo=qt&logoColor=white)
-
-* oculus:
-  * Краткое описание:  Информирует хозяина кто включил ПК.
-  * Github:  https://github.com/OsKaLis/oculus.git
-  * <img src="https://img.shields.io/badge/Python_-3.9.10-Green"> <img src="https://img.shields.io/badge/pyrogram_-2.0.106-blue"> <img src="https://img.shields.io/badge/OpenCV_-4.8.1.78-red">
-  * <img src="https://img.shields.io/badge/python_dotenv_-1.0.1-aqua"> <img src="https://img.shields.io/badge/PySocks_-1.7.1-white">
-* Alien_Invasion:
-  * Краткое описание: Игра стрелялка.
-  * Github:  https://github.com/OsKaLis/Alien_Invasion.git
-  * <img src="https://img.shields.io/badge/Python_-3.9.10-Green"> <img src="https://img.shields.io/badge/pygame_-2.5.2-blue">
