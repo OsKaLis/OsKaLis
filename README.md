@@ -1,32 +1,53 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">OsKaLis</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я backend разработчик, листинкую код на Python!!!</h3>
+<h1 align="center">Привет, я <a href="https://daniilshat.ru/" target="_blank">OsKaLis</a> (Юрий Юшко)</h1>
+<p align="center">Python‑разработчик: backend + Data Science</p>
+<h3 align="center">Python‑разработчик (Backend + Data Science). Создаю надёжные API и обогащаю сервисы интеллектуальными функциями: от анализа данных до прогнозных моделей!!!</h3>
 
-## [ОБО МНЕ]
-> [!NOTE]
-> Я наслаждаюсь процессом создания и поддержания backend части приложения,
-> так как это требует глубокого понимания технологий, архитектуры и принципов
-> разработки программного обеспечения. Возможность работать с самыми
-> современными технологиями и решать сложные задачи делает эту профессию
-> захватывающей и увлекательной для меня.
-> 
-> Python выбрал и за широких возможностях и глубокой функциональностью,
-> что обеспечивает высокую производительность и эффективность разработки.
-> Его лаконичный синтаксис и простота использования делают его идеальным
-> инструментом для написания чистого и понятного кода, что упрощает
-> сопровождение и дальнейшее развитие проектов.
-> 
-> Хочется создавать эффективные и функциональные решения, которые могут
-> принести реальную пользу людям, сделать этот мир чуточку лучше.
-> Малая доля контента, где я черпаю знания.
+<details>
+  <summary><h1>Немного обо мне</h1></summary>
 
-## [CODEWARS]
-[![codewars](https://www.codewars.com/users/oskaLis/badges/large)](https://www.codewars.com/users/oskaLis)
+  ## [ CODEWARS ]
+  <p align="center">
+    <a href="https://www.codewars.com/users/oskaLis" target="_blank">
+      <img src="https://www.codewars.com/users/oskaLis/badges/large" alt="Codewars profile">
+    </a>
+  </p>
 
-## [КОНТАКТЫ]
-<h3 align="center"><img src="https://img.shields.io/badge/Telegram:_-@OskaLis-blue"><img src="https://img.shields.io/badge/Mail:_-oskaLis@yandex.ru-blue"></h3>
+  ## [ КОНТАКТЫ ]
+  <div align="center">
+    <a href="https://t.me/OskaLis" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram:_-@OskaLis-blue" alt="Telegram">
+    </a>
+    <a href="mailto:oskaLis@yandex.ru" target="_blank">
+      <img src="https://img.shields.io/badge/Mail:_-oskaLis@yandex.ru-blue" alt="Email">
+    </a>
+  </div>
 
-## [СТЕК ТЕХНОЛОГИЙ]
+  ## [ ОБО МНЕ ]
+  <blockquote>
+    <p><strong>Меня увлекает пересечение Data Science и backend‑разработки:</strong> я получаю удовольствие как от построения аналитических моделей, так и от создания надёжной инфраструктуры для их внедрения.</p>
+    <p><strong>В Data Science</strong> меня привлекает работа с данными — от сбора и очистки до построения прогнозных моделей и извлечения бизнес‑инсайтов. Глубокое понимание статистики, алгоритмов машинного обучения и feature engineering позволяет превращать сырые данные в ценные решения.</p>
+   <p><strong>С другой стороны, backend‑разработка</strong> даёт возможность создавать масштабируемые сервисы, которые доводят эти модели до конечного пользователя. Проектирование API, оптимизация взаимодействия с базами данных, обеспечение высокой производительности и отказоустойчивости — всё это критически важно для успешного внедрения ML‑решений в продакшен.</p>
+   <p><strong>Python стал моим основным инструментом</strong> благодаря универсальности:</p>
+    <ul>
+      <li><strong>для Data Science:</strong> библиотеки <code>pandas</code>, <code>NumPy</code>, <code>scikit‑learn</code>, <code>TensorFlow/PyTorch</code>;</li>
+      <li><strong>для backend:</strong> фреймворки <code>Django</code>, <code>Flask</code>, <code>FastAPI</code>.</li>
+    </ul>
+   <p><strong>Моя цель</strong> — создавать комплексные решения, где интеллектуальный анализ данных органично встроен в архитектуру приложения. Такой подход позволяет разрабатывать продукты, которые не просто работают, а принимают умные решения на основе данных, принося реальную пользу пользователям.</p>
+   <p>Постоянно изучаю новые подходы к развёртыванию ML‑моделей (<strong>MLOps</strong>), оптимизации инференса и построению отказоустойчивых пайплайнов обработки данных.</p>
+  </blockquote>
+
+  ## [ МОИ УВЛЕЧЕНИЯ ]
+  <ul>
+    <li><strong>Саморазвитие:</strong> изучаю материалы, которые расширяют кругозор и помогают принимать осознанные решения.</li>
+    <li><strong>Кино:</strong> люблю фильмы с закрученным сюжетом — они тренируют логику и воображение.</li>
+    <li><strong>Компьютерные игры:</strong> выбираю проекты с глубокой механикой и сюжетом — это развивает стратегическое мышление и реакцию.</li>
+    <li><strong>Музыка:</strong> слушаю разные жанры — от классики до электроники, чтобы зарядиться энергией или расслабиться.</li>
+    <li><strong>Чтение:</strong> предпочитаю книги, которые побуждают к размышлениям и дают новые идеи (научно‑популярная литература, философия, фантастика).</li>
+    <li><strong>Общение с животными:</strong> провожу время с питомцами — это помогает снять стресс и зарядиться позитивом.</li>
+  </ul>
+</details>
+
+## [ СТЕК ТЕХНОЛОГИЙ ]
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -60,7 +81,7 @@
 ![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logoColor=white)
 ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
 
-## [АКТИВНОСТЬ]
+## [ АКТИВНОСТЬ ]
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OsKaLis&theme=dark)
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OsKaLis&theme=dark) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OsKaLis&theme=dark) -->
@@ -69,7 +90,7 @@
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OsKaLis&theme=dark&locale=ru)](https://git.io/streak-stats) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=OsKaLis)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-## [МОИ ПЕТ ПРОЕКТЫ]
+## [ МОИ ПЕТ ПРОЕКТЫ ]
 * GEryCH:
   * Краткое описание:  Генератор пароль.  
   * Github:  https://github.com/OsKaLis/GEryCH.git
@@ -85,9 +106,3 @@
   * Краткое описание: Игра стрелялка.
   * Github:  https://github.com/OsKaLis/Alien_Invasion.git
   * <img src="https://img.shields.io/badge/Python_-3.9.10-Green"> <img src="https://img.shields.io/badge/pygame_-2.5.2-blue">
-## [Чем я увлекаюсь]
-- Люблю смотреть Аниме
-- Фильмы с закрученным сюжетом
-- Играть в компьютерные игры
-- Люблю слушать музыку
-- Люблю животных!
