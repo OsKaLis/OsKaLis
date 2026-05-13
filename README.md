@@ -1,5 +1,4 @@
 <h1 align="center">Привет, я <a href="https://github.com/OsKaLis" target="_blank">OsKaLis</a> (Юрий Юшко)</h1>
-<h2 align="center">Python‑разработчик: backend + Data Science</h2>
 <h3 align="center">Python‑разработчик (Backend + Data Science). Создаю надёжные API и обогащаю сервисы интеллектуальными функциями: от анализа данных до прогнозных моделей!!!</h3>
 
 <details>
@@ -51,7 +50,16 @@
   <summary><h1>DATA-SCIENCE</h1></summary>
 
   ## [ СТЕК ТЕХНОЛОГИЙ ]
-
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![pytorch](https://img.shields.io/badge/pytorch-%230db7ed.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![pandas](https://img.shields.io/badge/pandas-%230db7ed.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![numpy](https://img.shields.io/badge/numpy-%230db7ed.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![matplotlib](https://img.shields.io/badge/matplotlib-%230db7ed.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit%20learn-%230db7ed.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![seaborn](https://img.shields.io/badge/seaborn-%230db7ed.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+  
   ## [ МОИ ПЕТ ПРОЕКТЫ ]
   
 </details>  
