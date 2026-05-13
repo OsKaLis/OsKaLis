@@ -60,7 +60,17 @@
   ![scikit-learn](https://img.shields.io/badge/scikit%20learn-%230db7ed.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![seaborn](https://img.shields.io/badge/seaborn-%230db7ed.svg?style=for-the-badge&logo=seaborn&logoColor=white)
   
-  ## [ МОИ ПЕТ ПРОЕКТЫ ]
+  ## [ ПЕТ ПРОЕКТЫ ]
+
+  ### predicting_user_behavior_in_the_marketplace:
+  Интернет-магазин собирает историю покупателей, проводит рассылки предложений и планирует будущие продажи. Для оптимизации процессов надо выделить пользователей, которые готовы совершить покупку в ближайшее время.
+  - **Github:**  https://github.com/OsKaLis/predicting_user_behavior_in_the_marketplace
+  - **Стек:**  <img src="https://img.shields.io/badge/Scikit--Learn:_-1.6.1-purple">
+                <img src="https://img.shields.io/badge/Pandas:_-2.3.3-slategrey">
+                <img src="https://img.shields.io/badge/Python:_-3.13.0-greem">
+                <img src="https://img.shields.io/badge/catboost:-1.2.8-greem">
+                <img src="https://img.shields.io/badge/lightgbm:-4.6.0-greem">
+                <img src="https://img.shields.io/badge/Poetry:_-2.2.0-blue">
   
 </details>  
 
@@ -101,22 +111,22 @@
   ![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logoColor=white)
   ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
 
-  ## [ МОИ ПЕТ ПРОЕКТЫ ]
-  * GEryCH:
-    * Краткое описание:  Генератор пароль.  
-    * Github:  https://github.com/OsKaLis/GEryCH.git
-    * Стек:  ![Python 3.12](https://img.shields.io/badge/Python-3.12-brightgreen.svg?style=flat&logo=python&logoColor=white)
+  ## [ ПЕТ ПРОЕКТЫ ]
+  ### GEryCH:
+  Краткое описание:  Генератор пароль.  
+  - **Github:**  https://github.com/OsKaLis/GEryCH.git
+  - **Стек:**  ![Python 3.12](https://img.shields.io/badge/Python-3.12-brightgreen.svg?style=flat&logo=python&logoColor=white)
   ![Python 3.12](https://img.shields.io/badge/QT-6.7.1-brightgreen.svg?style=flat&logo=qt&logoColor=white)
 
-  * oculus:
-    * Краткое описание:  Информирует хозяина кто включил ПК.
-    * Github:  https://github.com/OsKaLis/oculus.git
-    * <img src="https://img.shields.io/badge/Python_-3.9.10-Green"> <img src="https://img.shields.io/badge/pyrogram_-2.0.106-blue"> <img src="https://img.shields.io/badge/OpenCV_-4.8.1.78-red">
+  ### oculus:
+  Краткое описание:  Информирует хозяина кто включил ПК.
+  - **Github:**  https://github.com/OsKaLis/oculus.git
+  - **Стек:** <img src="https://img.shields.io/badge/Python_-3.9.10-Green"> <img src="https://img.shields.io/badge/pyrogram_-2.0.106-blue"> <img src="https://img.shields.io/badge/OpenCV_-4.8.1.78-red">
     * <img src="https://img.shields.io/badge/python_dotenv_-1.0.1-aqua"> <img src="https://img.shields.io/badge/PySocks_-1.7.1-white">
-  * Alien_Invasion:
-    * Краткое описание: Игра стрелялка.
-    * Github:  https://github.com/OsKaLis/Alien_Invasion.git
-    * <img src="https://img.shields.io/badge/Python_-3.9.10-Green"> <img src="https://img.shields.io/badge/pygame_-2.5.2-blue">
+  ### Alien_Invasion:
+  Краткое описание: Игра стрелялка.
+  - **Github:**  https://github.com/OsKaLis/Alien_Invasion.git
+  - **Стек:** <img src="https://img.shields.io/badge/Python_-3.9.10-Green"> <img src="https://img.shields.io/badge/pygame_-2.5.2-blue">
 </details>
 
 ## [ АКТИВНОСТЬ ]
