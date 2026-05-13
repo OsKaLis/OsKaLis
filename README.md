@@ -24,7 +24,7 @@
 [![codewars](https://www.codewars.com/users/oskaLis/badges/large)](https://www.codewars.com/users/oskaLis)
 
 ## [КОНТАКТЫ]
-<h3 align="center"><img src="https://img.shields.io/badge/Telegram:_-@OskaLis-Green"><img src="https://img.shields.io/badge/Mail:_-oskaLis@yandex.ru-Green"></h3>
+<h3 align="center"><img src="https://img.shields.io/badge/Telegram:_-@OskaLis-blue"><img src="https://img.shields.io/badge/Mail:_-oskaLis@yandex.ru-blue"></h3>
 
 ## [СТЕК ТЕХНОЛОГИЙ]
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
