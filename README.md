@@ -62,6 +62,13 @@
   
   ## [ ПЕТ ПРОЕКТЫ ]
 
+  ### steel_bird
+  - **Github:**  https://github.com/OsKaLis/steel_bird
+  - **Стек:**   <img src="https://img.shields.io/badge/Pandas:_-2.3.3-slategrey">
+                <img src="https://img.shields.io/badge/Python:_-3.13.0-greem">
+                <img src="https://img.shields.io/badge/Poetry:_-2.2.0-blue">
+
+
   ### predicting_user_behavior_in_the_marketplace:
   Интернет-магазин собирает историю покупателей, проводит рассылки предложений и планирует будущие продажи. Для оптимизации процессов надо выделить пользователей, которые готовы совершить покупку в ближайшее время.
   - **Github:**  https://github.com/OsKaLis/predicting_user_behavior_in_the_marketplace
