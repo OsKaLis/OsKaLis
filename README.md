@@ -171,10 +171,8 @@
 </details>
 
 ## [ АКТИВНОСТЬ ]
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OsKaLis&theme=dark)
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OsKaLis&theme=dark) -->
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OsKaLis&theme=dark) -->
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OsKaLis&theme=dark) -->
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OsKaLis&theme=dark) -->
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OsKaLis&theme=dark&locale=ru)](https://git.io/streak-stats) -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=OsKaLis)](https://github.com/ryo-ma/github-profile-trophy) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OsKaLis&theme=nord_bright&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OsKaLis&theme=nord_bright&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OsKaLis&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OsKaLis&theme=nord_bright&utcOffset=+3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OsKaLis&theme=nord_bright)
