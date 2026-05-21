@@ -41,7 +41,7 @@
   </ul>
 </details>
 
-![DS](photo_2026-02-07_13-32-35.jpg)
+![DS](ds.jpg)
 
 <details> 
   <summary><h1>DATA-SCIENCE</h1></summary>
