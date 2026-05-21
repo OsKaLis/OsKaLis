@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я <a href="https://github.com/OsKaLis" target="_blank">OsKaLis</a> (Юрий Юшко)</h1>
 <h3 align="center">Python‑разработчик (Backend + Data Science). Создаю надёжные API и обогащаю сервисы интеллектуальными функциями: от анализа данных до прогнозных моделей!!!</h3>
 
-![DS](photo_2026-02-07_13-32-35.jpg)
+![DS](ds.jpg)
 
 <details>
   <summary><h1>НЕМНОГО ОБО МНЕ</h1></summary>
@@ -119,7 +119,7 @@
   
 </details>
 
-![DS](photo_2026-02-07_13-32-35.jpg)
+![DS](backend.jpg)
 
 <details>
   <summary><h1>BACKEND</h1></summary>
