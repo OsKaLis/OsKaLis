@@ -1,10 +1,10 @@
 <h1 align="center">Привет, я <a href="https://github.com/OsKaLis" target="_blank">OsKaLis</a> (Юрий Юшко)</h1>
 <h3 align="center">Python‑разработчик (Backend + Data Science). Создаю надёжные API и обогащаю сервисы интеллектуальными функциями: от анализа данных до прогнозных моделей!!!</h3>
 
-![DS](ds.jpg)
+![MY](my.jpg)
 
 <details>
-  <summary><h1>НЕМНОГО ОБО МНЕ</h1></summary>
+  <summary><h1>OPEN</h1></summary>
 
   ## [ CODEWARS ]
   <p align="center">
@@ -44,7 +44,7 @@
 ![DS](ds.jpg)
 
 <details> 
-  <summary><h1>DATA-SCIENCE</h1></summary>
+  <summary><h1>OPEN</h1></summary>
 
   ## [ СТЕК ТЕХНОЛОГИЙ ]
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -119,10 +119,10 @@
   
 </details>
 
-![DS](backend.jpg)
+![BACKEND](backend.jpg)
 
 <details>
-  <summary><h1>BACKEND</h1></summary>
+  <summary><h1>OPEN</h1></summary>
   
   ## [ СТЕК ТЕХНОЛОГИЙ ]
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
