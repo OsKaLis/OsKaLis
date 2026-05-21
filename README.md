@@ -89,26 +89,28 @@
   Интернет-магазин собирает историю покупателей, проводит рассылки предложений и планирует будущие продажи. Для оптимизации процессов надо выделить пользователей, которые готовы совершить покупку в ближайшее время.
   - **Github:**  https://github.com/OsKaLis/predicting_user_behavior_in_the_marketplace
   - **Стек:**  <img src="https://img.shields.io/badge/Scikit--Learn:_-1.6.1-blue"> <img src="https://img.shields.io/badge/Pandas:_-2.3.3-slategrey">
- <img src="https://img.shields.io/badge/Python:_-3.13.0-greem">
- <img src="https://img.shields.io/badge/catboost:-1.2.8-blue">
- <img src="https://img.shields.io/badge/lightgbm:-4.6.0-blue">
- <img src="https://img.shields.io/badge/Poetry:_-2.2.0-blue">
- <img src="https://img.shields.io/badge/matplotlib:_-3.10.7-blue">
- <img src="https://img.shields.io/badge/seaborn:_-0.13.2-blue">
- <img src="https://img.shields.io/badge/phik:_-0.12.4-blue">
- <img src="https://img.shields.io/badge/shap:_-0.50.0-blue">
- <img src="https://img.shields.io/badge/wordcloud:_-1.9.4-blue">
- <img src="https://img.shields.io/badge/pillow:_-12.0.0-blue">
+               <img src="https://img.shields.io/badge/Python:_-3.13.0-greem">
+               <img src="https://img.shields.io/badge/catboost:-1.2.8-blue">
+               <img src="https://img.shields.io/badge/lightgbm:-4.6.0-blue">
+               <img src="https://img.shields.io/badge/Poetry:_-2.2.0-blue">
+               <img src="https://img.shields.io/badge/matplotlib:_-3.10.7-blue">
+               <img src="https://img.shields.io/badge/seaborn:_-0.13.2-blue">
+               <img src="https://img.shields.io/badge/phik:_-0.12.4-blue">
+               <img src="https://img.shields.io/badge/shap:_-0.50.0-blue">
+               <img src="https://img.shields.io/badge/wordcloud:_-1.9.4-blue">
+               <img src="https://img.shields.io/badge/pillow:_-12.0.0-blue">
 
   ### predictions_of_heart_attack_risk:
   Представляем инновационное веб-приложение на базе современного фреймворка FastAPI, разработанное для автоматизации процесса анализа данных.
   - **Github:**  https://github.com/OsKaLis/predictions_of_heart_attack_risk
-  - **Стек:** <img src="https://img.shields.io/badge/Scikit--Learn:_-1.6.1-purple">
-              <img src="https://img.shields.io/badge/Pandas:_-2.2.3-slategrey">
+  - **Стек:** <img src="https://img.shields.io/badge/Scikit--Learn:_-1.6.1-blue"> <img src="https://img.shields.io/badge/Pandas:_-2.2.3-slategrey">
               <img src="https://img.shields.io/badge/Python:_-3.13.0-greem">
-              <img src="https://img.shields.io/badge/FastAPI:_-0.119.0-green">
-              <img src="https://img.shields.io/badge/Uvicorn:_-0.37.0-red">
+              <img src="https://img.shields.io/badge/FastAPI:_-0.119.0-blue">
+              <img src="https://img.shields.io/badge/Uvicorn:_-0.37.0-blue">
               <img src="https://img.shields.io/badge/Poetry:_-2.0.0-blue">
+              <img src="https://img.shields.io/badge/jinja2:_-3.1.6-blue">
+              <img src="https://img.shields.io/badge/python--multipart:_-0.0.20-blue">
+              <img src="https://img.shields.io/badge/joblib:_-1.5.2-blue">
 
   
 </details>  
