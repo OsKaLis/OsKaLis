@@ -66,7 +66,7 @@
   
   ## [ ПЕТ ПРОЕКТЫ ]
 
-  ### steel_bird
+  ### steel_bird:
   Чтобы оптимизировать производственные расходы, металлургический комбинат «Стальная птица» решил уменьшить потребление электроэнергии на этапе обработки стали. Для этого комбинату нужно контролировать температуру сплава. Ваша задача — построить модель, которая будет её предсказывать. Заказчик хочет использовать разработанную модель для имитации технологического процесса.
   - **Github:**  https://github.com/OsKaLis/steel_bird
   - **Стек:**   <img src="https://img.shields.io/badge/Pandas:_-2.2.3-slategrey">
@@ -88,14 +88,19 @@
   ### predicting_user_behavior_in_the_marketplace:
   Интернет-магазин собирает историю покупателей, проводит рассылки предложений и планирует будущие продажи. Для оптимизации процессов надо выделить пользователей, которые готовы совершить покупку в ближайшее время.
   - **Github:**  https://github.com/OsKaLis/predicting_user_behavior_in_the_marketplace
-  - **Стек:**  <img src="https://img.shields.io/badge/Scikit--Learn:_-1.6.1-purple">
-                <img src="https://img.shields.io/badge/Pandas:_-2.3.3-slategrey">
-                <img src="https://img.shields.io/badge/Python:_-3.13.0-greem">
-                <img src="https://img.shields.io/badge/catboost:-1.2.8-greem">
-                <img src="https://img.shields.io/badge/lightgbm:-4.6.0-greem">
-                <img src="https://img.shields.io/badge/Poetry:_-2.2.0-blue">
+  - **Стек:**  <img src="https://img.shields.io/badge/Scikit--Learn:_-1.6.1-blue"> <img src="https://img.shields.io/badge/Pandas:_-2.3.3-slategrey">
+ <img src="https://img.shields.io/badge/Python:_-3.13.0-greem">
+ <img src="https://img.shields.io/badge/catboost:-1.2.8-blue">
+ <img src="https://img.shields.io/badge/lightgbm:-4.6.0-blue">
+ <img src="https://img.shields.io/badge/Poetry:_-2.2.0-blue">
+ <img src="https://img.shields.io/badge/matplotlib:_-3.10.7-blue">
+ <img src="https://img.shields.io/badge/seaborn:_-0.13.2-blue">
+ <img src="https://img.shields.io/badge/phik:_-0.12.4-blue">
+ <img src="https://img.shields.io/badge/shap:_-0.50.0-blue">
+ <img src="https://img.shields.io/badge/wordcloud:_-1.9.4-blue">
+ <img src="https://img.shields.io/badge/pillow:_-12.0.0-blue">
 
-  ### predictions_of_heart_attack_risk
+  ### predictions_of_heart_attack_risk:
   Представляем инновационное веб-приложение на базе современного фреймворка FastAPI, разработанное для автоматизации процесса анализа данных.
   - **Github:**  https://github.com/OsKaLis/predictions_of_heart_attack_risk
   - **Стек:** <img src="https://img.shields.io/badge/Scikit--Learn:_-1.6.1-purple">
