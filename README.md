@@ -26,14 +26,7 @@
     <p><strong>Меня увлекает пересечение Data Science и backend‑разработки:</strong> я получаю удовольствие как от построения аналитических моделей, так и от создания надёжной инфраструктуры для их внедрения.</p>
     <p><strong>В Data Science</strong> меня привлекает работа с данными — от сбора и очистки до построения прогнозных моделей и извлечения бизнес‑инсайтов. Глубокое понимание статистики, алгоритмов машинного обучения и feature engineering позволяет превращать сырые данные в ценные решения.</p>
    <p><strong>С другой стороны, backend‑разработка</strong> даёт возможность создавать масштабируемые сервисы, которые доводят эти модели до конечного пользователя. Проектирование API, оптимизация взаимодействия с базами данных, обеспечение высокой производительности и отказоустойчивости — всё это критически важно для успешного внедрения ML‑решений в продакшен.</p>
-   <p><strong>Python стал моим основным инструментом</strong> благодаря универсальности:</p>
-    <ul>
-      <li><strong>для Data Science:</strong> библиотеки <code>pandas</code>, <code>NumPy</code>, <code>scikit‑learn</code>, <code>TensorFlow/PyTorch</code>;</li>
-      <li><strong>для backend:</strong> фреймворки <code>Django</code>, <code>Flask</code>, <code>FastAPI</code>.</li>
-    </ul>
    <p><strong>Моя цель</strong> — создавать комплексные решения, где интеллектуальный анализ данных органично встроен в архитектуру приложения. Такой подход позволяет разрабатывать продукты, которые не просто работают, а принимают умные решения на основе данных, принося реальную пользу пользователям.</p>
-   <p>Постоянно изучаю новые подходы к развёртыванию ML‑моделей (<strong>MLOps</strong>), оптимизации инференса и построению отказоустойчивых пайплайнов обработки данных.</p>
-  </blockquote>
 
   ## [ МОИ УВЛЕЧЕНИЯ ]
   <ul>
@@ -53,23 +46,43 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
-  [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
-  [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
-  [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
-  [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
-  [![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)](#)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+  ![CatBoost](https://img.shields.io/badge/CatBoost-%23F05033.svg?style=for-the-badge&logo=CatBoost&logoColor=white)
+  ![Wordcloud](https://img.shields.io/badge/Wordcloud-%23F05033.svg?style=for-the-badge&logo=Wordcloud&logoColor=white)
+  ![PySpark](https://img.shields.io/badge/PySpark-%23F05033.svg?style=for-the-badge&logo=PySpark&logoColor=white)
+  ![LightGBM](https://img.shields.io/badge/LightGBM-%23F05033.svg?style=for-the-badge&logo=LightGBM&logoColor=white)
+  ![Skorch](https://img.shields.io/badge/Skorch-%23F05033.svg?style=for-the-badge&logo=Skorch&logoColor=white)
+  ![Seaborn](https://img.shields.io/badge/Seaborn-%23F05033.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
   
   
   ## [ ПЕТ ПРОЕКТЫ ]
 
   ### steel_bird
+  Чтобы оптимизировать производственные расходы, металлургический комбинат «Стальная птица» решил уменьшить потребление электроэнергии на этапе обработки стали. Для этого комбинату нужно контролировать температуру сплава. Ваша задача — построить модель, которая будет её предсказывать. Заказчик хочет использовать разработанную модель для имитации технологического процесса.
   - **Github:**  https://github.com/OsKaLis/steel_bird
-  - **Стек:**   <img src="https://img.shields.io/badge/Pandas:_-2.3.3-slategrey">
+  - **Стек:**   <img src="https://img.shields.io/badge/Pandas:_-2.2.3-slategrey">
                 <img src="https://img.shields.io/badge/Python:_-3.13.0-greem">
                 <img src="https://img.shields.io/badge/Poetry:_-2.2.0-blue">
+                <img src="https://img.shields.io/badge/matplotlib:_-3.9.4-blue">
+                <img src="https://img.shields.io/badge/seaborn:_-0.13.2-blue">
+                <img src="https://img.shields.io/badge/numpy:_-1.23.0-blue">
+                <img src="https://img.shields.io/badge/shap:_-0.44.0-blue">
+                <img src="https://img.shields.io/badge/phik:_-0.12.4-blue">
+                <img src="https://img.shields.io/badge/scikit--learn:_-1.6.1-blue">
+                <img src="https://img.shields.io/badge/catboost:_-1.2.8-blue">
+                <img src="https://img.shields.io/badge/sqlalchemy:_-2.0.46-blue">
+                <img src="https://img.shields.io/badge/skorch:_-1.2.0-blue">
+                <img src="https://img.shields.io/badge/optuna:_-4.8.0-blue">
+    
 
 
   ### predicting_user_behavior_in_the_marketplace:
